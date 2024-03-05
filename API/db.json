@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1783",
+      "name": "Aarjav Jain ",
+      "email": "anshjain050@gmail.com",
+      "password": "$2a$10$fc1l8wf5Ol3SiJKmdmA7ZuVzCZ.WvaAjLkhnK1GH6IlvlXFq6n28q",
+      "city": "Kairana ",
+      "state": "Uttarpradesh ",
+      "pincode": "247774"
+    },
+    {
+      "id": "9ca9",
+      "name": "Arihant ",
+      "email": "aribahr@geuen",
+      "password": "$2a$10$n9FQYlld/0.SUxksA2bD2uPoNlmgDkbVR5fAL.vdjKDoKL9FckIlG",
+      "city": "Urehue",
+      "state": "Dujhie",
+      "pincode": "3262986"
+    },
+    {
+      "id": "2462",
+      "name": "Arihant ",
+      "email": "aribahr@geuen",
+      "password": "$2a$10$SUE.OVejRClJwL0966siwe8h9yLXVHQGX0LcmuOTVEmHQePGK/2fq",
+      "city": "Urehue",
+      "state": "Dujhie",
+      "pincode": "3262986"
+    },
+    {
+      "id": "d9b6",
+      "name": "Arihant ",
+      "email": "aribahr@geuen",
+      "password": "$2a$10$QlvVxIDTnGY5mFdxfJjeYernibdoMllgqs/depS4qv49EkiArzUxG",
+      "city": "Urehue",
+      "state": "Dujhie",
+      "pincode": "3262986"
+    },
+    {
+      "id": "80c9",
+      "name": "Arihant ",
+      "email": "aribahr@geuen",
+      "password": "$2a$10$Nkuqqqick3hdOXIuTesWu.jAFulvFb44zHq/I2V0TMwQWwSx3ul86",
+      "city": "Urehue",
+      "state": "Dujhie",
+      "pincode": "3262986"
+    },
+    {
+      "id": "e821",
+      "name": "Arihant ",
+      "email": "aribahr@geuen",
+      "password": "$2a$10$X2BUOjoJji1AxNw7MLsK8.f9GUftYptfgOSGT1uV0.5RSTpAEltoq",
+      "city": "Urehue",
+      "state": "Dujhie",
+      "pincode": "3262986"
+    }
+  ]
+}

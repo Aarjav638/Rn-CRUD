@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881756102275",
+    "project_id": "firsttutorial-7903c",
+    "storage_bucket": "firsttutorial-7903c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881756102275:android:63aff43acd92f9df5ec5b6",
+        "android_client_info": {
+          "package_name": "com.reactnativetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881756102275-kif4armujak3arqttnnac4pqgdm5to50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNKIGrA_uKgjxnkndJfz6N1DAIt8Oplpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881756102275-kif4armujak3arqttnnac4pqgdm5to50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
